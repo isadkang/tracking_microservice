@@ -1,7 +1,7 @@
 # 🚗 GPS Tracking Microservice
 
 Halo, saya Muhammad Irsyad Nataprawira as Backend Developer,
-Proyek ini saya buat sebagai bagian dari **take-home test interview kerja**, dengan fokus membangun **microservice untuk melacak lokasi kendaraan secara realtime** menggunakan Spring Boot dan PostgreSQL.
+Proyek ini saya buat dengan fokus membangun **microservice untuk melacak lokasi kendaraan secara realtime** menggunakan Spring Boot dan PostgreSQL.
 
 ---
 
