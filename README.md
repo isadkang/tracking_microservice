@@ -1,7 +1,7 @@
 # 🚗 GPS Tracking Microservice
 
-Halo, saya Muhammad Irsyad Nataprawira, fresh graduate dari SMK yang sedang belajar menjadi backend developer.  
-Proyek ini saya buat sebagai bagian dari **take-home test interview kerja**, dengan fokus membangun **microservice untuk melacak lokasi kendaraan secara realtime** menggunakan Spring Boot dan PostgreSQL.
+Halo, saya Muhammad Irsyad Nataprawira as Backend Developer,
+Proyek ini saya buat dengan fokus membangun **microservice untuk melacak lokasi kendaraan secara realtime** menggunakan Spring Boot dan PostgreSQL.
 
 ---
 
@@ -29,8 +29,8 @@ Proyek ini saya buat sebagai bagian dari **take-home test interview kerja**, den
 ### 1. Clone repo-nya
 
 ```bash
-git clone https://github.com/username/gps-tracking-service.git
-cd gps-tracking-service
+git clone https://github.com/isadkang/tracking_microservice.git
+cd tracking-microservice
 ```
 ### 2. Setup Database
    Buat database baru di PostgreSQL dengan nama gps_tracking
