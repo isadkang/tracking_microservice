@@ -1,8 +1,8 @@
-package com.example.tracking_microservice.Vehicle.service.impl;
+package com.example.tracking_microservice.service.impl;
 
-import com.example.tracking_microservice.Vehicle.model.Vehicle;
-import com.example.tracking_microservice.Vehicle.repository.VehicleRepository;
-import com.example.tracking_microservice.Vehicle.service.VehicleService;
+import com.example.tracking_microservice.model.Vehicle;
+import com.example.tracking_microservice.repository.VehicleRepository;
+import com.example.tracking_microservice.service.VehicleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

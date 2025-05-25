@@ -1,8 +1,8 @@
-package com.example.tracking_microservice.GPSLog.service.impl;
+package com.example.tracking_microservice.service.impl;
 
-import com.example.tracking_microservice.GPSLog.model.GPSLog;
-import com.example.tracking_microservice.GPSLog.repository.GPSLogRepository;
-import com.example.tracking_microservice.GPSLog.service.GPSLogService;
+import com.example.tracking_microservice.model.GPSLog;
+import com.example.tracking_microservice.repository.GPSLogRepository;
+import com.example.tracking_microservice.service.GPSLogService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

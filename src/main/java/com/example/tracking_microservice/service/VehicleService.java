@@ -1,6 +1,6 @@
-package com.example.tracking_microservice.Vehicle.service;
+package com.example.tracking_microservice.service;
 
-import com.example.tracking_microservice.Vehicle.model.Vehicle;
+import com.example.tracking_microservice.model.Vehicle;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,6 +1,6 @@
-package com.example.tracking_microservice.GPSLog.service;
+package com.example.tracking_microservice.service;
 
-import com.example.tracking_microservice.GPSLog.model.GPSLog;
+import com.example.tracking_microservice.model.GPSLog;
 
 import java.time.LocalDateTime;
 import java.util.List;

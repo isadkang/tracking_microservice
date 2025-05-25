@@ -1,10 +1,10 @@
-package com.example.tracking_microservice.GPSLog.controller;
+package com.example.tracking_microservice.controller;
 
-import com.example.tracking_microservice.GPSLog.dto.GPSLogRequestDTO;
-import com.example.tracking_microservice.GPSLog.service.GPSLogService;
-import com.example.tracking_microservice.GPSLog.model.GPSLog;
-import com.example.tracking_microservice.Vehicle.model.Vehicle;
-import com.example.tracking_microservice.Vehicle.service.VehicleService;
+import com.example.tracking_microservice.dto.GPSLogRequestDTO;
+import com.example.tracking_microservice.service.GPSLogService;
+import com.example.tracking_microservice.model.GPSLog;
+import com.example.tracking_microservice.model.Vehicle;
+import com.example.tracking_microservice.service.VehicleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

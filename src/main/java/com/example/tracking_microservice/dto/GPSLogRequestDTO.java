@@ -1,4 +1,4 @@
-package com.example.tracking_microservice.GPSLog.dto;
+package com.example.tracking_microservice.dto;
 
 import jakarta.validation.constraints.DecimalMax;
 import jakarta.validation.constraints.DecimalMin;

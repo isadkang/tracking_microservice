@@ -1,6 +1,6 @@
-package com.example.tracking_microservice.GPSLog.repository;
+package com.example.tracking_microservice.repository;
 
-import com.example.tracking_microservice.GPSLog.model.GPSLog;
+import com.example.tracking_microservice.model.GPSLog;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.time.LocalDateTime;

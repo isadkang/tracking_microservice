@@ -1,4 +1,4 @@
-package com.example.tracking_microservice.Vehicle.model;
+package com.example.tracking_microservice.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

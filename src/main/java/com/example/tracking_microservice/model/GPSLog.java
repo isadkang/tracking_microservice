@@ -1,6 +1,5 @@
-package com.example.tracking_microservice.GPSLog.model;
+package com.example.tracking_microservice.model;
 
-import com.example.tracking_microservice.Vehicle.model.Vehicle;
 import jakarta.persistence.*;
 import lombok.*;
 

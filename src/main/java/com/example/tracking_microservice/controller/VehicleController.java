@@ -1,8 +1,8 @@
-package com.example.tracking_microservice.Vehicle.controller;
+package com.example.tracking_microservice.controller;
 
 
-import com.example.tracking_microservice.Vehicle.service.VehicleService;
-import com.example.tracking_microservice.Vehicle.model.Vehicle;
+import com.example.tracking_microservice.service.VehicleService;
+import com.example.tracking_microservice.model.Vehicle;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
